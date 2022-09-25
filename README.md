@@ -1,7 +1,7 @@
 # Sistema de controle e gerenciamento de uma oficina mecânica
 
 ## Objetivo:
-** Criar o esquema conceitual para o contexto de oficina **
+**Criar o esquema conceitual para o contexto de oficina**
 
 ## Narrativa:
 * Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
